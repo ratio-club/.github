@@ -1,12 +1,7 @@
-## Hi there 👋
+The idea of the club arose from a symposium on animal behaviour held in July 1949 by the Society of Experimental Biology in Cambridge. The club was founded by the neurologist John Bates, with other notable members such as W. Ross Ashby.
 
-<!--
+The name Ratio was suggested by Albert Uttley, it being the Latin root meaning "computation or the faculty of mind which calculates, plans and reasons". He pointed out that it is also the root of rationarium, meaning a statistical account, and ratiocinatius, meaning argumentative. The use was probably inspired by an earlier suggestion by Donald Mackay of the 'MR club', from Machina ratiocinatrix, a term used by Norbert Wiener in the introduction to his then recently published book Cybernetics, or Control and Communication in the Animal and the Machine. Wiener used the term in reference to calculus ratiocinator, a calculating machine constructed by Leibniz.
 
-**Here are some ideas to get you started:**
+The initial membership was W. Ross Ashby, Horace Barlow, John Bates, George Dawson, Thomas Gold, W. E. Hick, Victor Little, Donald MacKay, Turner McLardy, P. A. Merton, John Pringle, Harold Shipton, Donald Sholl, Eliot Slater, Albert Uttley, W. Grey Walter and John Hugh Westcott. Alan Turing joined after the first meeting with I. J. Good, Philip Woodward and William Rushton added soon after. Giles Brindley was also a member for a short period.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The club was the most intellectually powerful and influential cybernetics grouping in the UK, and many of its members went on to become extremely prominent scientists.
